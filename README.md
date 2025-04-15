@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pedro Heringer</h1>
-<h3 align="center">I'm a Data Science and Analyst from Brazil.</h3>
+<h3 align="center">I'm a Data Scientist and Analyst from Brazil.</h3>
 
 - 🌱 I’m currently learning **Google Data Analytics Professional Certificate**
 
